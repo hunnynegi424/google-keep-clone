@@ -12,7 +12,7 @@ const theme = responsiveFontSizes(createMuiTheme({
       colorPrimary: {
         backgroundColor: themeColors.AppBar.bgColor,
       },
-    }
+    },
   },
 }))
 

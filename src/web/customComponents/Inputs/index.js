@@ -11,8 +11,6 @@ const useStyles = (focused) => ({
     alignItems: 'center',
     justifyContent: 'center',
     width: '100%',
-    marginLeft: '5em',
-    marginRight: '5em',
     backgroundColor: focused ? 'white' : '#525355',
   },
   sIcon: {
